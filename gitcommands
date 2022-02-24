@@ -1,0 +1,13 @@
+//inicia um repositório local, dizendo que a pasta é um repositório git
+git init 
+
+// clona o repositório remoto para uma pasta local
+git clone "link ou repisotório"
+
+// adiciona os arquivos para o commit
+git add . 
+        nome do arquivo 
+
+
+//commita e insere a mensagem do commit
+git commit -m "mensagem do commit"
