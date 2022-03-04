@@ -50,4 +50,3 @@ if (danganronpa == "2") {
   }
 }
 
-//pasdhoisadhioa
