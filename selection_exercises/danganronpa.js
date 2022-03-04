@@ -49,3 +49,5 @@ if (danganronpa == "2") {
       break;
   }
 }
+
+//pasdhoisadhioa
